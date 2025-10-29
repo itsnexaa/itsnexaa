@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Nexaa  
-🚀 Passionate Developer | 💻 Bot Builder & Backend Engineer | ☕ Coffee & Code Lover  
+🚀 Passionate Developer | 💻 Bot Builder & Backend Engineer 
 
 ---
 
